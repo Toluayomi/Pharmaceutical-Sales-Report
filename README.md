@@ -459,7 +459,7 @@ Tooltip Active =
 
 ##### Customer & Sales Insights
 
-  i. Top 5 Customers: David Johnson, Bob Williams, Jane Brown, Bob Smith, Alice Smith (each spent over £3 million).
+  i. Top 5 Customers: David Johnson, Bob Williams, Jane Brown, Bob Smith, Alice Smith (each spent over £3 million in the years reviewed).
 
   ii. Seller Category Contribution: 88% of total revenue.
 
@@ -494,7 +494,7 @@ Ezetimibe leads in weekend sales.
 
   a. Increase marketing efforts and promotional discounts in September and February to maximize revenue.
 
-  b. Implement sales incentives in January to improve sales during the slowest month.
+  b. Implement start-of-the-year sales incentives to improve sales during the slowest month.
 
 ##### Expand High-Performing Product Lines
 
@@ -506,7 +506,7 @@ Ezetimibe leads in weekend sales.
    a. Focus expansion efforts in Canada and Australia to leverage their high revenue potential, and also develop strategic marketing plans to improve sales in France and the U.S.
 
 ##### Target High-Value Customers & Demographics
-   a. Through implementation of loyalty programs for high-spending customers to retain engagement.
+   a. Implement loyalty programs for high-spending customers to retain engagement.
    b.Personalize marketing efforts towards males and customers aged 21-30 & 51+ as they generate the most revenue.
 
 ##### Optimize Sales Channel Performance
