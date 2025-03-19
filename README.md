@@ -423,7 +423,93 @@ Tooltip Active =
 
 ### Results and Findings 
 
-### Recommendations 
+#### Key Metrics & Performance Overview:
+
+##### Financial Performance
+
+  i. Total Revenue: £71,307,118
+
+  ii. Total Profit: £12,853,526
+
+  iii. Cost of Goods Sold (COGS): £58,453,593
+
+  iv. Total Quantity Sold: 269,472 units
+
+  v. Profit Margin: 81.97%
+
+
+##### Yearly Performance Trends
+
+  i. Best Year: 2023 with the highest revenue (£61,680,865) and profit (£50,517,188).
+
+  ii. Average Revenue Per Customer: £356,536.
+
+  iii. Highest Sales Quarter: Q3 (£18,566,182 in revenue).
+
+##### Top & Underperforming Products
+
+  i. Top 5 Best-Selling Drugs: Doxycycline, Ergocalciferol, Lisinopril, Clonazepam, Ezetimibe (23.3% of total revenue).
+
+  ii. 5 Lowest-Performing Drugs: Metformin, Prednisone, Amoxicillin,   Montelukast, Warfarin (3.3% of total revenue).
+
+
+##### Customer & Sales Insights
+
+  i. Top 5 Customers: David Johnson, Bob Williams, Jane Brown, Bob Smith, Alice Smith (each spent over £3 million).
+
+  ii. Seller Category Contribution: 88% of total revenue.
+
+  iii. Demographics:
+
+  a. Gender: Male (47%), Female (32%), Other (21%).
+
+  b. Age Groups: 69.6% of revenue came from customers aged 21-30 and over 51.
+
+##### Geographical Performance
+
+  i. Top Markets: Canada (£31,667,203), Australia (£15,253,937) contributed 65.8% of total revenue.
+
+  ii. Lowest Markets: France (£5,584,466), United States (£5,577,904).
+
+##### Seasonal Trends
+
+  i. Peak Months: September and February.
+
+  ii. Lowest Sales Month: January.
+
+##### Sales Patterns by Weekday vs. Weekend:
+
+Doxycycline, Ergocalciferol, and Lisinopril are most purchased on weekdays.
+
+Ezetimibe leads in weekend sales.
+
+  
+### Recommendations for Business Growth:
+
+##### Optimize High-Demand Periods
+
+  a. Increase marketing efforts and promotional discounts in September and February to maximize revenue.
+
+  b. Implement sales incentives in January to improve sales during the slowest month.
+
+##### Expand High-Performing Product Lines
+
+   a. Boost inventory and marketing for top-selling drugs (Doxycycline, Ergocalciferol, Lisinopril, Clonazepam, Ezetimibe).
+
+  b. Conduct further analysis on underperforming drugs to assess viability or reposition them in the market.
+
+##### Strengthen Key Market Penetration
+   a. Focus expansion efforts in Canada and Australia to leverage their high revenue potential, and also develop strategic marketing plans to improve sales in France and the U.S.
+
+##### Target High-Value Customers & Demographics
+   a. Through implementation of loyalty programs for high-spending customers to retain engagement.
+   b.Personalize marketing efforts towards males and customers aged 21-30 & 51+ as they generate the most revenue.
+
+##### Optimize Sales Channel Performance
+
+  i. Enhance seller support and incentives since they contribute 88% of total revenue to optimize the 
+  ii. Adjust stock levels based on weekday vs. weekend purchase trends for improved supply chain efficiency.
+
 
 ### Limitations 
 
