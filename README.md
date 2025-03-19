@@ -8,8 +8,10 @@
 - [Exploratory Data Analysis](ExploratoryDataAnalysis)
 - [Data Analysis](Dataanalysis)
 - [Results and Findings](DataResultsandFindings)
-- [Recommendations](Recommendations)
+- [Recommendations for BusinessGrowth](Recommendationsforbusinessgrowth)
 - [Limitations](Limitations)
+
+
 ### Project Overview 
 This repository contains a detailed pharmaceutical (Drugs) sales analysis, featuring key performance metrics, sales trends, regional distribution, and customer insights. Built using Power BI, and Excel, the report provides actionable insights to optimize sales strategies and drive business growth.
 
@@ -21,7 +23,7 @@ Sales Data: The primary dataset used for this analysis is the "drug_sales.csv" f
 - Excel - Data Cleaning
   - [Download here](
 - Power BI - Data Analysis, reporting and Visualization
-  - [Download here](https://app.powerbi.com/view?r=eyJrIjoiMGE4MDg5NzUtM2FmOS00NWM2LTgyMDQtODRiYTNlZTI3MDdmIiwidCI6ImZkYjZkMTI5LTk0NTItNDY0Mi05ZDRjLTY5YjViNmMzNjU2YSJ9)
+  - [Download here](https://app.powerbi.com/view?r=eyJrIjoiYjZkZTA0YzUtNWEyYi00NjdmLTliMzktZTlhMTg1OGE4ODE4IiwidCI6ImZkYjZkMTI5LTk0NTItNDY0Mi05ZDRjLTY5YjViNmMzNjU2YSJ9)
 
 ### Data Cleaning and Preparation 
 
