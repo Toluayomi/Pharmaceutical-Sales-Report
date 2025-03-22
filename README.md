@@ -13,7 +13,7 @@
 
 
 ### Project Overview 
-This repository contains a detailed pharmaceutical (Drugs) sales analysis, featuring key performance metrics, sales trends, regional distribution, and customer insights. Built using Power BI, and Excel, the report provides actionable insights to optimize sales strategies and drive business growth.
+This repository contains a detailed pharmaceutical (Drugs) sales analysis, featuring key performance metrics, sales trends, regional distribution, and customer insights. Built using Power BI, and Excel, the findings in this report provides actionable insights to optimize sales strategies and drive business growth and profitability. 
 
 ### Data Sources 
 Sales Data: The primary dataset used for this analysis is the "drug_sales.csv" file, containing detailed information about drugs sales made by the pharmaceutical company 
@@ -397,6 +397,7 @@ Seller Revenue =
 ```
 ### Trend
 
+```
 Previous Month = 
             CALCULATE([Total Revenue],
             DATEADD('Calendar Date'[Date], -1,MONTH)
